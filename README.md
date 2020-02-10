@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link: https://frosty-euclid-96d9c0.netlify.com/
 
 ## Available Scripts
 
